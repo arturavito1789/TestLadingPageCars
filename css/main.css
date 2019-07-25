@@ -1,0 +1,93 @@
+
+body{
+    margin: 0;
+}
+
+.fullscreen {
+  width: 100%;
+}
+
+header{
+    background-color: #323232; 
+    height: 63px;
+} 
+
+.navbar a {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-right: 20px; 
+  padding-bottom: 10px; 
+ }
+
+.navbar span {  
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-right: 20px;  
+  padding-bottom: 10px; 
+ }
+
+
+.navbar img {
+   margin-right: 20px;  
+   display: block; 
+   width: 135px;
+ }
+
+
+section{
+    background-color: #fff; /* Цвет фона веб-страницы */
+    padding-top:64px; 
+    padding-bottom: 64px; 
+}    
+
+section img {
+   display: block; 
+   width: 160px;
+   margin: 0;
+   padding: 0;
+ }
+
+.col{
+    overflow: hidden;
+}    
+
+footer{
+    background-color: #2eb398; /* Цвет фона веб-страницы */
+    height: 345px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+} 
+
+.photo_mersedes {
+   margin-right: 20px;  
+   display: block; 
+   width: 135px;
+ }
+
+.content_footer{
+    display:flex;
+    flex-direction: column;
+    color:#fff;
+    margin-left: auto;
+}
+
+.smith_Anderson {
+  font-size: 30px;
+}
+
+.illustrator{
+  font-size: 18px;
+  color: rgb(32, 129, 109);
+ }
+
+.lorem{
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  text-align: justify;
+  width: 581px;  
+ }
+
+.social_icons{
+  margin-left: auto; 
+  padding-right: 240px;
+ }

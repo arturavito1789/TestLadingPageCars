@@ -1,0 +1,79 @@
+﻿Более продвинутая версия часть про препроцессоры
+	https://youtu.be/i1hnRdlbbJQ?t=4071
+
+http://caniuse.com
+	Здесь можно проверить как поддерживают технологию браузеры
+	
+Расширение для Visual Studio Code для превращения Less в Css
+	https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less
+	
+https://tinypng.com/
+	Здесь можно сжать jpg или png файл
+	
+https://www.liveinternet.ru/stat/ru/browsers.html?date=2017-04-01;period=month
+	Какие браузеры сейчас используются
+	
+http://filezilla.ru/
+	Программа для закачки файлов на сервер
+	
+http://lesscss.org
+	Препроцессор less, официальный сайт
+
+https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/
+	Понятное объяснение Less на русском
+	
+http://koala-app.com/
+	Коала(переводит less файлы в css)
+
+Scout app (для компиляции scss/sass в css)
+	https://scout-app.io/
+	
+http://timeweb.com
+	Хостинг
+	
+Купить домен сайта можно здесь
+	reg.ru
+	2domains.ru
+	
+https://bitbucket.org
+	Инструмент для командной разработки(контроль версий)
+	
+http://meyerweb.com/eric/tools/css/reset/
+	Сброс стилей
+
+http://www.colorzilla.com/gradient-editor/
+	Генератор градиентов
+	
+Официальная спецификация html
+	https://www.w3.org/TR/html52/
+	
+Mozilla Developer Network
+	https://developer.mozilla.org/ru/docs/Learn
+
+Как поднять локальный сервер за 5 минут
+	https://www.youtube.com/watch?v=nwTiXgIYEX8
+
+Open server
+	https://ospanel.io/
+
+Решение ДЗ здесь
+	https://youtu.be/SfhdVvU_GaE
+	
+Немецкий хостинг провайдер(дешевый)
+	https://contabo.com/?show=vps
+
+Firstbyte (русский дешевый хостинг)
+	https://firstbyte.ru/
+	
+Браузер srware iron (с движком webkit, как и safari под mac)
+	https://www.srware.net/en/software_srware_iron_download.php
+
+Подробнее про мета тег <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	https://bit.ly/2sLwXoO
+	https://bit.ly/2RGPxcI
+
+Статистика браузеров (яндекс радар)
+	https://radar.yandex.ru/browsers
+
+Тест скорости сайта
+	https://developers.google.com/speed/pagespeed/insights/?hl=RU
